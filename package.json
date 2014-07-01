@@ -1,0 +1,28 @@
+{
+  "name": "hubot-pugsofwesteros",
+  "description": "A hubot script to post a gif from The Pugs of Westeros when someone mentions Game of Thrones",
+  "version": "1.0.0",
+  "author": "shulance <sam.hulance@googlemail.com>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shulance/hubot-pugsofwesteros.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/shulance/hubot-pugsofwesteros/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "main": "index.coffee",
+
+}
