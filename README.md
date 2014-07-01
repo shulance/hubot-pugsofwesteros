@@ -3,11 +3,15 @@ hubot-pugsofwesteros
 
 A hubot script to post a gif from [The Pugs of Westeros](http://www.youtube.com/watch?v=2EoQCtPR2-I) when someone mentions Game of Thrones, becasue we all how much hubot LOVES pugs! 
 
-## Dependencies
-* None
+## Installation
 
-## Configuration
-* None
+Add **hubot-pugsofwesteros** to your `external-scripts.json`:
+
+```json
+["hubot-pugsofwesteros"]
+```
+
+Run `npm install hubot-pugsofwesteros`
 
 ## Commands
 * game of thrones | westeros - Reply with a pug of Westeros
