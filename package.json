@@ -23,6 +23,6 @@
     "coffee-script": "~1.6"
   },
 
-  "main": "index.coffee",
+  "main": "index.coffee"
 
 }
