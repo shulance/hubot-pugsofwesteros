@@ -59,7 +59,7 @@ module.exports = (robot) ->
   robot.hear /\ ned\ |stark|winterfell/i, (msg) ->
     msg.send msg.random ned
 
-  robot.hear /tyrion|\ imp/i, (msg) ->
+  robot.hear /tyrion|\ imp\ /i, (msg) ->
     msg.send msg.random tyrion
 
   robot.hear /jon snow|you know nothing/i, (msg) ->
