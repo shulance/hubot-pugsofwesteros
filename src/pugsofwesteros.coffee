@@ -65,7 +65,7 @@ module.exports = (robot) ->
   robot.hear /jon snow|you know nothing/i, (msg) ->
     msg.send jonsnow()
 
-  robot.hear /king|joffrey/i, (msg) ->
+  robot.hear /\ king|joffrey/i, (msg) ->
     msg.send king()
 
   robot.hear /daenerys|targaryen|khaleesi/i, (msg) ->
