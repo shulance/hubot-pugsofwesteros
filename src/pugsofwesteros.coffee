@@ -9,7 +9,6 @@
 #   ned | stark | winterfell - Reply with Ned or the Starks
 #   tyrion | imp - Reply with Tyrion
 #   jon snow | you know nothing - Reply with Jon Snow
-#   tyrion | imp - Reply with Tyrion
 #   king | joffrey - Reply with The king Bastard Joffrey
 #   daenerys | targaryen - Reply with Daenerys
 #
