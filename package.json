@@ -1,7 +1,7 @@
 {
   "name": "hubot-pugsofwesteros",
   "description": "A hubot script to post a gif from The Pugs of Westeros when someone mentions Game of Thrones",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "author": "shulance <sam.hulance@googlemail.com>",
   "license": "MIT",
 
